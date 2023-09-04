@@ -11,12 +11,11 @@ I am a Ph.D. student at the University of Lausanne
 - **Hybridization:** introgression, genomic consequences, hybridization opportunity
 - **Parthenogenesis:** transitions, genomic causes/consequences
 
-## News
+## Timeline
 
-- **[Feb. 2020]** Our paper about incremental learning is accepted to CVPR 2020.
-- **[Feb. 2020]** We will host the ACM Multimedia Asia 2020 conference in Singapore!
-- **[Sept. 2019]** Our paper about few-shot learning is accepted to NeurIPS 2019.
-- **[Mar. 2019]** Our paper about few-shot learning is accepted to CVPR 2019.
+- **[July. 2022]** Started PhD at the University of Lausanne with Tanja Schwander
+- **[June. 2022]** Graduated from the University of Lausanne-Switzerland. MSc
+- **[June. 2016]** Graduated from the University of Minnesota-Twin Cities. BSc
 
 {% include_relative _includes/publications.md %}
 
