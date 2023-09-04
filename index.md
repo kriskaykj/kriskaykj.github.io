@@ -4,12 +4,12 @@ layout: homepage
 
 ## About Me
 
-I am a Ph.D. student at ...
+I am a Ph.D. student at the University of Lausanne  
 
 ## Research Interests
 
-- **Computer Vision:** image recognition, image generation, video captioning
-- **Machine Learning:** meta-learning, incremental learning, transfer learning
+- **Hybridization:** introgression, genomic consequences, hybridization opportunity
+- **Parthenogenesis:** transitions, genomic causes/consequences
 
 ## News
 
