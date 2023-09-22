@@ -17,6 +17,6 @@ I am a Ph.D. student at the University of Lausanne
 - **[June. 2022]** Graduated from the University of Lausanne-Switzerland. MSc
 - **[June. 2016]** Graduated from the University of Minnesota-Twin Cities. BSc
 
-{% include_relative _includes/publications.md %}
+#{% include_relative _includes/publications.md %}
 
 {% include_relative _includes/services.md %}
