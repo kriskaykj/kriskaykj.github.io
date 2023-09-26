@@ -19,6 +19,7 @@ I am a Ph.D. student at the University of Lausanne
 
 
 
-{% include_relative _includes/services.md %}  
+{% include_relative _includes/services.md %}    
+
 {% include_relative _includes/publications.md %}
 
