@@ -3,7 +3,7 @@ main:
   - title: "Unraveling the Mechanisms Driving Transitions to Parthenogenesis: A Case Study of Hybridization, Triploidy, and Wolbachia Infection in the Ladybug Nephus voeltzkowi"
     authors: <strong>Kristine Jecha</strong>, Susana Freitas, Emilie Lecompte, Nathalie Parthuisot, Zoé Dumas, Alexandra Magro, Tanja Schwander
     conference_short: CJM
-    conference: Conference Jacques Monod. Sex unfolded: sex, asex, sexes-Roscoff,FR <strong>(CJM)</strong>, Sept 2023.
+    conference: Conference Jacques Monod. Sex unfolded; sex, asex, sexes-Roscoff,FR <strong>(CJM)</strong>, Sept 2023.
     pdf: ./assets/files/roscoffposterFINAL.pdf
     #code: https://github.com/MrGiovanni/ContinualLearning
     #bibtex: https://bib.yliu.me/MICCAI23.txt
