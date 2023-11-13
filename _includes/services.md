@@ -8,3 +8,4 @@
   <li>High Performace Computing with slurm and UNIX</li>
   <li>Read analysis, Genome assembly, Quality Control</li>
 </ul>
+  
